@@ -1,5 +1,4 @@
 # 💫 About Me:
-I am Camilo Hernandez. I am a software developer who specializes in performance and frontend technology.<br>
 <br>👨‍💻 All of my projects are available at https://www.xdiffernt.com/
 
 ## 🌐 Socials:
