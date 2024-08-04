@@ -5,7 +5,7 @@
 - 🤝 I like to **Just chit-chat**
 - 👀 Currently learning **New Techs**
 - 📝 I write articles on My <a href="https://blog.xdiffernt.com/">Personal Blog</a>
-- 📫 Reach me : <a href="mailto:camilohreina.dev@gmail.com">nikhilshukla.dev</a>
+- 📫 Reach me : <a href="mailto:camilohreina.dev@gmail.com">xdiffernt.com</a>
 - 📄 Know about <a href="https://www.xdiffernt.com/">Me</a>
 - ⚡ Fun fact **I'm an Engineer😂**
 
